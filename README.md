@@ -1,2 +1,2 @@
 # webdeveloper-portfolio
-Creating a dummy a developer portfolio
+Creating a dummy developer portfolio
